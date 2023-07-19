@@ -1,0 +1,1 @@
+worker: python3 /Users/apatil/PycharmProjects/Discord-Bot/bot.py
